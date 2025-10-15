@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Eisse  
 
 ## 🛡️ Aspiring Cybersecurity Analyst  
-I'm an aspiring cybersecurity analyst with a strong academic foundation and a growing passion for blue team operations, threat detection, and security monitoring.  
+I'm an aspiring cybersecurity analyst with a strong academic foundation and a growing passion for red team operations, threat detection, and security monitoring.  
 Currently pursuing my **MSc in Information Systems Technology** and preparing for the **CompTIA Security+ certification**, I’m dedicated to learning, sharing, and applying practical cybersecurity skills to real-world challenges.  
 
 ---
