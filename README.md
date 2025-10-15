@@ -1,33 +1,41 @@
 # 👋 Hi, I'm Mohamed Eisse  
 
-## 🛡️ Aspiring SOC Analyst  
-I'm currently learning to become a Security Operations Center (SOC) Analyst — focused on monitoring, analyzing, and responding to cyber threats.  
-I enjoy working with cybersecurity tools, analyzing network traffic, and building detection labs to sharpen my blue team skills.  
+## 🛡️ Aspiring Cybersecurity Analyst  
+I'm an aspiring cybersecurity analyst with a strong academic foundation and a growing passion for blue team operations, threat detection, and security monitoring.  
+Currently pursuing my **MSc in Information Systems Technology** and preparing for the **CompTIA Security+ certification**, I’m dedicated to learning, sharing, and applying practical cybersecurity skills to real-world challenges.  
 
 ---
 
-### 🎯 Current Learning Focus
-- **SIEM Tools:** Splunk, Microsoft Sentinel, Security Onion  
-- **Network Monitoring:** Wireshark, Zeek  
-- **Threat Frameworks:** MITRE ATT&CK, Cyber Kill Chain  
-- **Incident Response:** Triaging alerts, log correlation, and threat hunting  
-- **Scripting:** Python basics for SOC automation  
+### 🎯 What I'm Focusing On
+- **Threat Detection & Analysis** – Using SIEM tools like Splunk and Microsoft Sentinel  
+- **Incident Response & Monitoring** – Investigating alerts and correlating logs for threat identification  
+- **Network Security & Traffic Analysis** – Applying Wireshark and Zeek for packet inspection  
+- **Security Fundamentals** – Deepening my understanding of SOC operations, MITRE ATT&CK, and defensive strategies  
+- **Python for SOC Automation** – Writing scripts to streamline log analysis and IOC detection  
 
 ---
 
-### 💼 Projects & Labs
+### 💼 My Projects & Labs
 | Project Name | Description |
 |---------------|-------------|
-| 🧿 **SOC Home Lab Setup** | Building a virtual SOC environment using Splunk and Security Onion. |
-| 🔍 **Log Analysis Practice** | Hands-on exercises analyzing logs from simulated attacks. |
-| 🐍 **Python for SOC** | Small scripts for automating alert triage and log parsing. |
-| 📘 **Blue Team Notes** | Study notes and practical guides for SOC operations. |
+| 🧿 **SOC Home Lab Setup** | Building a virtual SOC environment with Splunk and Security Onion for hands-on practice. |
+| 🔍 **Log Analysis Exercises** | Analyzing simulated attack logs and writing detection reports. |
+| 🐍 **Python for SOC** | Developing small automation scripts to parse logs and extract indicators of compromise (IOCs). |
+| 📘 **Cybersecurity Notes & Insights** | Documenting daily learning and cybersecurity concepts I explore. |
 
 ---
 
-### 🧠 My Learning Progress
-| Area | Tools/Topics | Status |
-|------|---------------|--------|
+### 🎓 Education & Certifications
+- 🎓 **MSc in Information Systems Technology** – United States International University – Africa  
+- 🧠 **CompTIA Security+ Candidate** *(In Progress)*  
+- 🎯 **Google Cybersecurity Certificate** *(Ongoing)*  
+- 🧩 **TryHackMe – Red Team Pathway** *(Active Learner)*  
+
+---
+
+### 🧠 Learning Progress Tracker
+| Skill Area | Tools/Topics | Progress |
+|-------------|---------------|-----------|
 | SIEM | Splunk, Sentinel | 🟩🟩🟩⬜⬜ (60%) |
 | Network Analysis | Wireshark, Zeek | 🟩🟩🟩🟩⬜ (80%) |
 | Threat Hunting | MITRE ATT&CK, OTX | 🟩🟩⬜⬜⬜ (40%) |
@@ -35,18 +43,16 @@ I enjoy working with cybersecurity tools, analyzing network traffic, and buildin
 
 ---
 
-### 🎓 Certifications & Learning Platforms
-- 🎯 **Google Cybersecurity Certificate** *(In Progress)*  
-- 🧠 **TryHackMe – Blue Team Pathway** *(Learning)*  
-- 🧩 **CyberDefenders SOC Challenges** *(Practicing)*  
+### 🌍 Connect with Me
+- 💼 [LinkedIn – Mohamed Eisse](https://linkedin.com/in/mohamedeisse)  
+- 🧠 [TryHackMe – (Add your username)](https://tryhackme.com/p/mmohamoud.eissa)  
+- ✉️ **mmohamoud.eissa@gmail.com**  
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 🧠 [TryHackMe](https://tryhackme.com/p/YOUR-PROFILE)
-- ✉️ **mohamedeisse@example.com**
+> “Cybersecurity isn’t just about defending systems — it’s about understanding threats before they strike.”  
 
 ---
 
-> “Security isn’t about perfection — it’s about detection and response.”  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedEisse&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedEisse&theme=dark&hide_border=true)](https://git.io/streak-stats)
