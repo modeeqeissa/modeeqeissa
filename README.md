@@ -54,7 +54,7 @@ Currently pursuing my **MSc in Information Systems Technology** and preparing fo
 ![Connect](https://img.shields.io/badge/Connect%20with%20Me-Blue?style=for-the-badge&color=1E90FF)
 
 ### 🌍 <span style="color:#1E90FF;">Let’s Connect</span>
-- 💼 [LinkedIn – Mohamed Eisse](https://linkedin.com/in/mohamedeisse)  
+- 💼 [LinkedIn – moeisse](https://linkedin.com/in/mohamedeisse)  
 - 🧠 [TryHackMe – mmohamoud.eissa](https://tryhackme.com/p/mmohamoud.eissa)  
 - ✉️ **mmohamoud.eisse@gmail.com**  
 
