@@ -55,8 +55,8 @@ Currently pursuing my **MSc in Information Systems Technology** and preparing fo
 
 ### 🌍 <span style="color:#1E90FF;">Let’s Connect</span>
 - 💼 [LinkedIn – Mohamed Eisse](https://linkedin.com/in/mohamedeisse)  
-- 🧠 [TryHackMe – Add your username](https://tryhackme.com/p/YOUR-USERNAME)  
-- ✉️ **mohamedeisse@example.com**  
+- 🧠 [TryHackMe – Add your username](https://tryhackme.com/p/mmohamoud.eissa)  
+- ✉️ **mmohamoud.eisse@gmail.com**  
 
 ---
 
