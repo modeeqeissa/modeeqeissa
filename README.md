@@ -1,7 +1,7 @@
 # 👋 Hi, I'm <span style="color:#00BFFF;">Mohamed Eisse</span>  
 
 ## 🛡️ <span style="color:#2E8B57;">Aspiring Cybersecurity Analyst</span>  
-I'm an **Aspiring Cybersecurity Analyst** with a strong academic foundation and passion for **blue team operations**, **threat detection**, and **incident response**.  
+I'm an **Aspiring Cybersecurity Analyst** with a strong academic foundation and passion for **red team operations**, **threat detection**, and **incident response**.  
 Currently pursuing my **MSc in Information Systems Technology** and preparing for **CompTIA Security+ certification**, I’m dedicated to continuously learning, sharing, and applying cybersecurity skills to real-world scenarios.  
 
 ---
@@ -54,7 +54,7 @@ Currently pursuing my **MSc in Information Systems Technology** and preparing fo
 ![Connect](https://img.shields.io/badge/Connect%20with%20Me-Blue?style=for-the-badge&color=1E90FF)
 
 ### 🌍 <span style="color:#1E90FF;">Let’s Connect</span>
-- 💼 [LinkedIn – moeisse](https://linkedin.com/in/mohamedeisse)  
+- 💼 [Linkedin - Moeisse](https://www.linkedin.com/in/moeisse/)  
 - 🧠 [TryHackMe – mmohamoud.eissa](https://tryhackme.com/p/mmohamoud.eissa)  
 - ✉️ **mmohamoud.eisse@gmail.com**  
 
